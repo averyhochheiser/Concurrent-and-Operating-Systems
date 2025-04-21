@@ -1,0 +1,10 @@
+int gA ;
+int gB ;
+int gD ;
+int gJ ;
+int gK ;
+int gO ;
+int gS ;
+int gV ;
+int gW ;
+int gX ;
